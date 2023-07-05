@@ -1,0 +1,20 @@
+C:\Users\EM\source\repos\Secondary app\Secondary app\bin\Debug\net6.0-windows\Secondary app.exe
+C:\Users\EM\source\repos\Secondary app\Secondary app\bin\Debug\net6.0-windows\Secondary app.deps.json
+C:\Users\EM\source\repos\Secondary app\Secondary app\bin\Debug\net6.0-windows\Secondary app.runtimeconfig.json
+C:\Users\EM\source\repos\Secondary app\Secondary app\bin\Debug\net6.0-windows\Secondary app.dll
+C:\Users\EM\source\repos\Secondary app\Secondary app\bin\Debug\net6.0-windows\Secondary app.pdb
+C:\Users\EM\source\repos\Secondary app\Secondary app\obj\Debug\net6.0-windows\Secondary app.csproj.AssemblyReference.cache
+C:\Users\EM\source\repos\Secondary app\Secondary app\obj\Debug\net6.0-windows\Secondary_app.Form1.resources
+C:\Users\EM\source\repos\Secondary app\Secondary app\obj\Debug\net6.0-windows\Secondary app.csproj.GenerateResource.cache
+C:\Users\EM\source\repos\Secondary app\Secondary app\obj\Debug\net6.0-windows\Secondary app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EM\source\repos\Secondary app\Secondary app\obj\Debug\net6.0-windows\Secondary app.AssemblyInfoInputs.cache
+C:\Users\EM\source\repos\Secondary app\Secondary app\obj\Debug\net6.0-windows\Secondary app.AssemblyInfo.cs
+C:\Users\EM\source\repos\Secondary app\Secondary app\obj\Debug\net6.0-windows\Secondary app.csproj.CoreCompileInputs.cache
+C:\Users\EM\source\repos\Secondary app\Secondary app\obj\Debug\net6.0-windows\Secondary app.dll
+C:\Users\EM\source\repos\Secondary app\Secondary app\obj\Debug\net6.0-windows\refint\Secondary app.dll
+C:\Users\EM\source\repos\Secondary app\Secondary app\obj\Debug\net6.0-windows\Secondary app.pdb
+C:\Users\EM\source\repos\Secondary app\Secondary app\obj\Debug\net6.0-windows\Secondary app.genruntimeconfig.cache
+C:\Users\EM\source\repos\Secondary app\Secondary app\obj\Debug\net6.0-windows\ref\Secondary app.dll
+C:\Users\EM\source\repos\Secondary app\Secondary app\obj\Debug\net6.0-windows\Secondary_app.Register_interface.resources
+C:\Users\EM\source\repos\Secondary app\Secondary app\obj\Debug\net6.0-windows\Secondary_app.Main_menu_screen.resources
+C:\Users\EM\source\repos\Secondary app\Secondary app\obj\Debug\net6.0-windows\Secondary_app.Create_a_task_screen.resources
